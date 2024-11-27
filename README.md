@@ -20,3 +20,8 @@ To run this code, the following Python libraries need to be installed:
 - To install the DeepFace library, which is used for facial emotion analysis, run the following command:
   ```bash
   pip install deepface
+
+## Output
+
+![Screenshot 2024-11-27 121945](https://github.com/user-attachments/assets/9283fbed-f7db-4faa-b582-feddde84fccf)
+
